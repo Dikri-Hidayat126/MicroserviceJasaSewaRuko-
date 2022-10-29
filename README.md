@@ -1,8 +1,22 @@
-# MicroserviceJasaSewaRuko-
-Nama : Rayhan Fauzy Dahlan
-NIM  : 1197050113
+# Project Title
+Service Order
 
-Deskripsi mengenai jobdesk order yaitu berfungsi untuk melakukan order kepada ruko seperti menampilkan User ::
+jadi disini saya kebagian mendapatkan tugas membuat serviceorder dimana pada service order bertujuan untuk :
+- Menampilkan data pelanggan sebelum transaksi
+- Menampilkan ruko yang tersedia
+- Menampilkan Detail transaksi dengan mengambil kode order
+- Menambahkan data pelanggan
+- menambahkan transaksi
+- Menampilkan Riwayat transaksi per ruko
+- Menambahkan Ruko pada order
+
+
+## Authors
+
+- [1197050113 Rayhan Fauzy Dahlan](https://github.com/Dikri-Hidayat126/MicroserviceJasaSewaRuko-.git)
+
+## Features
+Jobdesk order yaitu berfungsi untuk melakukan order kepada ruko seperti menampilkan User ::
 Menampilkan data pelanggan sebelum transaksi
 localhost:3005/api/v1/order/pelanggan
 
