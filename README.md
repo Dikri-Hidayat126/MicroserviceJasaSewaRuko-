@@ -1,4 +1,8 @@
 ﻿# MicroserviceJasaSewaRuko-
+ 
+ Nama : Dikri Hidayat
+ NIM  : 1197050030
+ UTS Basis Data
 
 
 # Employees Service
