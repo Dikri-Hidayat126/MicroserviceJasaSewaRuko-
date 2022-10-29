@@ -28,11 +28,13 @@ localhost:3005/api/v1/order/rukoorder
 Menampilkan Detail transaksi dengan mengambil kode order
 
 localhost:3005/api/v1/order/tampil/:kodeorder
+
 ket: butuh parameter kodeorder
 
 menambahkan data pelanggan
 
 localhost:3005/api/v1/order/tambahcst
+
 ket: membutuhkan body
 1.	dataorder                                         //ini (nama)
 2.	nohp
@@ -40,6 +42,7 @@ ket: membutuhkan body
 menambahkan transaksi
 
 localhost:3005/api/v1/order/transaksi
+
 ket: membutuhkan body
 1.	id_order
 2.	id_namaruko
